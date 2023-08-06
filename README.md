@@ -1,7 +1,3 @@
-<div align="center">
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fgreeting-gifs&psig=AOvVaw1lrzviM01V0L61tnb2hCmp&ust=1691414132102000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCF8OaOyIADFQAAAAAdAAAAABAE](https://media.istockphoto.com/id/1283536918/vector/welcome-concept-flat-vector-foe-website-happy-tiny-people-are-near-huge-text-cartoon-office.jpg?s=1024x1024&w=is&k=20&c=AA8aEWA4VvtyD8CWuul-wRjUcSL53nYGmA5rzdH4RuI=)" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Abhishek Paul, a CSE PostGrad Student and a full-stack developer 👨‍💻 </div>  
   
@@ -103,20 +99,5 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abhishek2k1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
 
 <br />
