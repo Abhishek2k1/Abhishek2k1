@@ -1,26 +1,21 @@
 
 ### <div align="center">I'm Abhishek Paul, a CSE PostGrad Student and a full-stack developer 👨‍💻 </div>  
-  
 
 - 🔭 I’m currently working on my [Portfolio](https://abhishek2k1.github.io/cv/)  
-  
 
 - 🌱 I’m currently learning React Native   
   
-
 - ❓ Ask me about anything related to CSE  
   
-
 - ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
-
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abhishek2k1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -92,9 +87,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abhishek2k1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
 <br />
